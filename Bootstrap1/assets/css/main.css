@@ -1,0 +1,14 @@
+nav ul li a{
+    transition: .5s !important;
+}
+nav ul li a:hover{
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+#info .empty-box{
+    width: 50% !important;
+    height: 60vh !important;
+    background-image: url(../photos/900x400.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% !important;
+}
